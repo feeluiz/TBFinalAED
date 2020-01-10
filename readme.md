@@ -31,7 +31,7 @@ São duas Classes Predador e a Presa que recebem herança da Classe Agente, e an
         -lGL 
         -lpthread 
         -lpng 
-    -w desetiva mensagens de Warnings
+    -w desativa mensagens de Warnings
 
 ### Compilação no Windows
     Deve ser instalado o Visual Studio para e modulos c/c++,
