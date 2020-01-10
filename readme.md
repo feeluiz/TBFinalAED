@@ -50,7 +50,7 @@ São duas Classes Predador e a Presa que recebem herança da Classe Agente, e an
 ## Autor
 
 * **Fernando Luiz** - [feeluiz](https://github.com/feeluiz)
-* **Ton Braganca - [Ton](https://github.com/)
+* **Ton Braganca** - [Ton](https://github.com/gleydiston)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
