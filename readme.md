@@ -13,9 +13,9 @@ Este projeto é um upgrade de um trabalho em c/c++, que tinha como foco uso de C
     - Organizar Classes e Headers separadamente
 
 ### Walls
-É uma Classe que recebe herança da Classe Agente e deve procurar o limite do Mundo e se mover pelo limite.
+É uma Classe que recebe herança da Classe Agente, e adiciona a função de andar nos limites(paredes) para o Agente.
 ### Presa x Predador
-São duas Classes Predador e a Presa que recebem herança da Classe Agente, e andam aleatoriamente até que o entre no campo de visao, dando inicio a um perseguição. 
+São duas Classes Predador e a Presa que recebem herança da Classe Agente, e adiciona novas funções ao Agente, andar aleatoriamente até que a presa entre no campo de visao do pedrador, dando inicio a um perseguição. 
 
 ## Dependencias
 ### Linux
